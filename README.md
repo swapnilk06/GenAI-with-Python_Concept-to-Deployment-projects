@@ -1,0 +1,86 @@
+# GenAI with Python - Concept to Deployment projects
+
+[Start Date : 07-04-25]
+
+<br>
+
+## Goal -
+- Build real-world AI applications
+
+
+
+# GenAI for Developers
+
+## Overview
+
+- Deep dive into Large Language Models (LLMs) and Generative AI, covering essential concepts, frameworks, and advanced applications. 
+- How to build AI-powered applications, optimize workflows, and implement security best practices in AI-driven systems.
+- Goal is to use AI tech stack to build application/products. 
+
+## What You Will Learn
+
+- **Introduction to LLM and Generative AI** – Understanding the fundamentals of LLMs and their capabilities.
+- **AI Agents and Agentic Workflows** – Implementing intelligent, autonomous AI agents.
+- **Building Basic Chat Applications** – Using LangChain to develop AI-driven chatbots.
+- **Chat Over Large Documents** – Leveraging vector stores such as Qdrant DB, PG Vector, and Pinecone for efficient document retrieval.
+- **Retrieval-Augmented Generation (RAG)** – Enhancing AI responses with dynamic information retrieval.
+- **Context-Aware AI Applications** – Developing AI solutions that adapt to different contexts.
+- **Memory-Aware AI Agents** – Utilizing Qdrant DB and Neo4j Graph for persistent AI memory.
+- **Document-to-Graph DB and Embeddings** – Transforming structured and unstructured data into graph-based representations.
+- **Multi-Modal LLM Applications** – Integrating text, images, and other data modalities.
+- **Security and Guardrails** – Implementing self-hosted models like Llama-3 or Gemma to ensure AI safety and compliance.
+- **AI Agent Orchestration with LangGraph** – Managing multiple AI agents and workflows.
+- **Checkpointing in LangGraph** – Ensuring fault tolerance and reproducibility in AI pipelines.
+- **Human-in-the-Loop Interruptions** – Allowing human oversight in AI-driven decisions.
+- **Tool Binding and API Calling** – Enabling AI agents to interact with external tools and services.
+- **Autonomous vs. Controlled Workflows** – Understanding different agent workflow strategies.
+- **MCP Servers** – Deploying and managing AI microservices efficiently.
+- **Guardrails for AI Models** – Implementing prompt filtering, PII detection, and safety mechanisms.
+- **Model Fine-Tuning** – Customizing pre-trained LLMs for specific use cases.
+- **LLM as a Judge Technique** – Evaluating AI-generated responses using AI.
+- **Perplexity Sonar API** – Enhancing AI reliability and accuracy.
+- **Deployment on AWS** – Hosting AI applications on a scalable cloud infrastructure.
+- **Cypher Query Context Retrieval** – Enhancing LLM capabilities with Neo4j Graph DB.
+
+## Tech Stack
+
+Below technologies to build, optimize, and deploy AI applications:
+
+- **Programming**: Python
+- **LLM Models**: OpenAI(GPT-4), DeepSeek, Claude, Gemini, Llama-3, Gemma
+- **Frameworks**:
+    - LangChain – A framework for building AI-powered applications.
+    - LangGraph – A tool for structuring and managing AI agent workflows.
+    - LangSmit – Enabling efficient AI development and execution.
+- **Tracing & Monitoring**:
+    - Langfuse (Docker) – Self-hosted traces for AI applications.
+- **Memory and Vector Stores**:
+    - PG Vector – A high-performance vector database.
+    - Quadrant DB – A scalable, efficient vector store.
+    - Vector Embedding Models – Enhancing AI understanding through embeddings.
+- **Infrastructure**:
+    - MCP Server – Managing AI inference and computation.
+    - Neo4j Graph DB – Graph-based AI knowledge storage.
+    - AWS – Scalable cloud deployment for AI applications.
+
+## Learning Outcomes
+
+Gain expertise in:
+
+- **Frameworks**: Mastering LangChain, LangGraph, and Hugging Face Transformers.
+- **Databases**: Implementing Qdrant, Neo4j, and Pinecone for AI applications.
+- **Models**: Understanding OpenAI, Gemini, Llama-3, and Gemma.
+- **Infrastructure**: Deploying AI solutions using AWS, Docker, LangSmit, and Langfuse.
+
+## Hands-On Projects
+
+Developing real-world AI projects, including:
+
+1. **AI-Powered Legal Document Assistant** – Automating legal document processing and summarization.
+2. **AI-Powered Chart Builder with Postgres** – Generating interactive data visualizations using AI.
+3. **AI-Powered Resume Roasting** – Evaluating and improving resumes with AI-driven feedback.
+4. **AI-Powered Candidate Search** – Enhancing recruitment with intelligent candidate matching.
+5. **AI-Powered Website Bot(Chat with Website)** – Enabling AI-driven interactions with website content.
+
+
+That helps for hands-on approach, ensuring learners gain practical experience in building and deploying AI applications at scale.
