@@ -1,15 +1,11 @@
 # What is GenAI - Introduction
 [Date : 07-04-25]
 
+<br>
+
 ### What we learn?
 - [x]
 
-
-### What we learn next time?
-- [x] 
-
-### Motivational **Topics** :
-- [x] 
 
 <br>
 
@@ -26,10 +22,9 @@
 
 
 > [!IMPORTANT]
-
+> - 
 
 <br>
-
 
 
 -------
@@ -37,7 +32,11 @@
 > [!TIP]
 > 
 
+<br>
+
+### What we learn next time?
+- [x] 
+
+
 ### Extra Work 
 - [x]  
-
-
